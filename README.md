@@ -4,7 +4,7 @@ This is a node js app for Tic-Tac-Toe. This game uses Node JS and Socket IO to c
 Type Below commands in a Terminal of project directory
 
 # Install packages
-npm install          
+npm install           
 
 # Run Server
 node server.js 5050 
