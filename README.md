@@ -11,4 +11,5 @@ node server.js 5050
 # Connect Clients
 node client.js 127.0.0.1 5050    
 
-note: connect two clients to play game and only two players are allowed at a time.
+connect two clients to play game and only two players are allowed at a time.
+player 1 will take initiate.
